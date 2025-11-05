@@ -1,4 +1,4 @@
-# 👋 Hi, I'm ZYY (Bobo)
+# 👋 Hi, I'm 0xYYBB | ZYY (Bobo)
 
 **AI Trading Strategist | Crypto Enthusiast | Web3 Builder**
 
