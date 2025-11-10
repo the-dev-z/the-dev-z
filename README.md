@@ -2,6 +2,12 @@
 
 **AI Trading Strategist | Crypto Enthusiast | Web3 Builder**
 
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00ADD8&center=true&vCenter=true&width=600&lines=AI+Trading+Strategist;Web3+Builder;Go+%2B+TypeScript+Developer;Crypto+Enthusiast;Quantitative+Trading+Expert)](https://git.io/typing-svg)
+
+</div>
+
 Building adaptive AI trading systems that combine quantitative strategies with LLM decision-making.
 
 ---
@@ -16,11 +22,30 @@ Building adaptive AI trading systems that combine quantitative strategies with L
 
 ## 💻 Tech Stack
 
-**Languages**: Go, TypeScript, Python
-**Frameworks**: Next.js, Gin, React
-**Blockchain**: Binance Futures, Hyperliquid, DEX integrations
-**AI/ML**: LangChain, OpenAI API, Prompt Engineering
-**Tools**: Docker, SQLite, WebSocket, REST API
+### Languages
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Frameworks & Libraries
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+### Blockchain & Trading
+![Binance](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
+
+### AI & ML
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-181818?style=for-the-badge&logo=anthropic&logoColor=white)
+
+### Tools & Infrastructure
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -57,6 +82,8 @@ Building adaptive AI trading systems that combine quantitative strategies with L
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=the-dev-z&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=the-dev-z&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=the-dev-z&theme=tokyonight&hide_border=true)
 
 </div>
 
