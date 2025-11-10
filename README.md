@@ -42,8 +42,8 @@ Building adaptive AI trading systems that combine quantitative strategies with L
 
 ## 📫 Let's Connect
 
-[![Telegram](https://img.shields.io/badge/Telegram-@zhouyongyou-blue?style=flat&logo=telegram)](https://t.me/zhouyongyou)
-[![GitHub](https://img.shields.io/badge/GitHub-@zhouyongyou-181717?style=flat&logo=github)](https://github.com/zhouyongyou)
+[![Telegram](https://img.shields.io/badge/Telegram-@the__dev__z-blue?style=flat&logo=telegram)](https://t.me/the_dev_z)
+[![GitHub](https://img.shields.io/badge/GitHub-@the--dev--z-181717?style=flat&logo=github)](https://github.com/the-dev-z)
 
 💬 Open to discussing: AI trading strategies, quantitative finance, LLM applications in DeFi
 
@@ -51,6 +51,6 @@ Building adaptive AI trading systems that combine quantitative strategies with L
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=zhouyongyou&color=blueviolet&style=flat)
+![](https://komarev.com/ghpvc/?username=the-dev-z&color=blueviolet&style=flat)
 
 </div>
