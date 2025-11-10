@@ -50,6 +50,18 @@ Building adaptive AI trading systems that combine quantitative strategies with L
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=the-dev-z&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=the-dev-z&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+</div>
+
+---
+
 <div align="center">
 
 ![](https://komarev.com/ghpvc/?username=the-dev-z&color=blueviolet&style=flat)
