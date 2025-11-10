@@ -2,12 +2,6 @@
 
 **AI Trading Strategist | Crypto Enthusiast | Web3 Builder**
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00ADD8&center=true&vCenter=true&width=600&lines=AI+Trading+Strategist;Web3+Builder;Go+%2B+TypeScript+Developer;Crypto+Enthusiast;Quantitative+Trading+Expert)](https://git.io/typing-svg)
-
-</div>
-
 Building adaptive AI trading systems that combine quantitative strategies with LLM decision-making.
 
 ---
@@ -82,8 +76,6 @@ Building adaptive AI trading systems that combine quantitative strategies with L
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=the-dev-z&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=the-dev-z&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=the-dev-z&theme=tokyonight&hide_border=true)
 
 </div>
 
