@@ -62,7 +62,7 @@ Building adaptive AI trading systems that combine quantitative strategies with L
 ## 📫 Let's Connect
 
 [![Telegram](https://img.shields.io/badge/Telegram-@the__dev__z-blue?style=flat&logo=telegram)](https://t.me/the_dev_z)
-[![X](https://img.shields.io/badge/X-@blockganglabs-000000?style=flat&logo=x)](https://x.com/blockganglabs)
+[![X](https://img.shields.io/badge/X-@the__dev__z-000000?style=flat&logo=x)](https://x.com/the_dev_z)
 [![GitHub](https://img.shields.io/badge/GitHub-@the--dev--z-181717?style=flat&logo=github)](https://github.com/the-dev-z)
 
 💬 Open to discussing: AI trading strategies, quantitative finance, LLM applications in DeFi
@@ -71,13 +71,10 @@ Building adaptive AI trading systems that combine quantitative strategies with L
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=the-dev-z&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=the-dev-z&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=the-dev-z&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-dev-z&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
 
 ---
 
