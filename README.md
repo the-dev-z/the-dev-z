@@ -43,6 +43,7 @@ Building adaptive AI trading systems that combine quantitative strategies with L
 ## 📫 Let's Connect
 
 [![Telegram](https://img.shields.io/badge/Telegram-@the__dev__z-blue?style=flat&logo=telegram)](https://t.me/the_dev_z)
+[![X](https://img.shields.io/badge/X-@blockganglabs-000000?style=flat&logo=x)](https://x.com/blockganglabs)
 [![GitHub](https://img.shields.io/badge/GitHub-@the--dev--z-181717?style=flat&logo=github)](https://github.com/the-dev-z)
 
 💬 Open to discussing: AI trading strategies, quantitative finance, LLM applications in DeFi
