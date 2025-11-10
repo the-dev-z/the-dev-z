@@ -73,7 +73,7 @@ Building adaptive AI trading systems that combine quantitative strategies with L
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=the-dev-z&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-dev-z&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-dev-z&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true" alt="Top Languages" />
 </p>
 
 ---
