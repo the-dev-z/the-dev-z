@@ -101,12 +101,12 @@ AI-driven quantitative trading OS supporting multiple exchanges (Binance, Hyperl
 - Explored DeFi protocols and on-chain data analysis
 
 **2020-2021** - 🎨 **NFT Artist & Creator**
-- [Binance NFT Artist](https://www.binance.com/en/nft) certification
-- Active on [OurSong](https://www.oursong.com/@zhouyongyou), [Foundation](https://foundation.app/@zhouyongyou)
+- Binance NFT Artist certification
+- Active on OurSong, Foundation, and other NFT platforms
 - Collaborated with exchanges on NFT projects
 
 **2018** - 🌐 **Early Web3 Adopter**
-- Promoted [LikeCoin](https://like.co/z440481) decentralized publishing infrastructure
+- Promoted LikeCoin decentralized publishing infrastructure
 - Participated in early blockchain community building in Asia
 
 ---
