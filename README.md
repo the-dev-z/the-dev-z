@@ -9,7 +9,8 @@ Building adaptive AI trading systems that combine quantitative strategies with L
 ## ⚡ Highlights
 
 - 🏆 **Top Open Source Contributor** - 40 merged PRs to [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) (208 commits in 11 days, #1 contributor with 6.1x more than #2)
-- ⚡ **Performance Optimization Expert** - Achieved 65% API efficiency gains, reducing calls from 3000/hour to 1050/hour ([commit 1b38c595](https://github.com/NoFxAiOS/nofx/commit/1b38c595))
+- ⚡ **Performance Optimization Expert** - Merged: 90% Funding Rate API reduction ([PR #769](https://github.com/NoFxAiOS/nofx/pull/769)) | z-dev: 65% total API optimization + 83% OI collection speed
+- 🔄 **Active Fork Development** - Leading [z-dev-v2](https://github.com/the-dev-z/nofx/commits/z-dev-v2/) development, integrating z-dev optimizations and contributing to upstream
 - 🧪 **Test-Driven Development** - Contributed 1,237 lines of test code covering 7 core modules (API, Config, Crypto, Decision, Market, Trader)
 - 🔐 **Security Implementations** - Built Hyperliquid Agent Wallet security model, sensitive data masking, and null token protection ([PR #717](https://github.com/NoFxAiOS/nofx/pull/717))
 - 🌐 **4.5 Years Web3 Experience** - From LikeCoin (2018) and Binance NFT Artist (2020-2021) to AI Trading Systems (2025)
@@ -18,9 +19,10 @@ Building adaptive AI trading systems that combine quantitative strategies with L
 
 ## 🚀 What I'm Working On
 
-- 🤖 **NoFX AI Trading Bot** - Autonomous trading agent with dynamic TP/SL and partial close strategies
+- 🤖 **NoFX AI Trading Bot** - Core developer on [z-dev-v2 branch](https://github.com/the-dev-z/nofx/commits/z-dev-v2/), integrating z-dev optimizations and contributing to upstream
 - 📊 **Quantitative Trading** - Developing backtesting frameworks and risk management systems
 - 🧠 **LLM Integration** - Exploring AI-driven trading decision making (OpenAI, Anthropic, DeepSeek)
+- 🔄 **Open Source Contribution** - Actively merging z-dev enhancements into z-dev-v2 and submitting PRs to upstream
 
 ---
 
@@ -31,17 +33,25 @@ Building adaptive AI trading systems that combine quantitative strategies with L
 
 AI-driven quantitative trading OS supporting multiple exchanges (Binance, Hyperliquid, Aster DEX), backed by Amber.ac.
 
-**Impact:**
-- 📊 **15,000+ lines changed** across 75 files with 208 commits
-- ⚡ **Performance**: 65% API reduction from 3000/hour to 1050/hour ([1b38c595](https://github.com/NoFxAiOS/nofx/commit/1b38c595))
+**Upstream Contributions (Merged):**
+- 📊 **15,000+ lines changed** across 75 files with 40 merged PRs
+- ⚡ **Performance**: 90% Funding Rate API reduction ([#769](https://github.com/NoFxAiOS/nofx/pull/769))
 - 🔐 **Security**: Hyperliquid Agent Wallet ([#717](https://github.com/NoFxAiOS/nofx/pull/717)), sensitive data masking ([#813](https://github.com/NoFxAiOS/nofx/pull/813))
 - ✨ **Features**: OI time-series support ([#876](https://github.com/NoFxAiOS/nofx/pull/876)), dynamic precision ([#715](https://github.com/NoFxAiOS/nofx/pull/715)), partial close & dynamic TP/SL ([#415](https://github.com/NoFxAiOS/nofx/pull/415))
 - 🐛 **Critical Fixes**: Stop-loss direction bug ([#877](https://github.com/NoFxAiOS/nofx/pull/877)), race conditions, leverage calculation errors
 - 🧪 **Testing**: 1,237 lines of test code covering API, Market, Trader, Decision modules
 
+**Fork Development (z-dev → z-dev-v2):**
+- 🔄 **z-dev-v2**: Active development branch synced with upstream, integrating z-dev optimizations
+- ⚡ **z-dev Exclusive**: Complete API optimization (65% total reduction: OI cache + Funding Rate cache + concurrent OI collection 83% faster)
+- 🚀 **Roadmap**: Gradually contributing z-dev enhancements to upstream via z-dev-v2
+
 **Tech Stack:** Go, Gin, SQLite, React 18, TypeScript, Vite, TailwindCSS, Zustand, SWR
 
-**View All PRs:** [40 Merged PRs](https://github.com/NoFxAiOS/nofx/pulls?q=is%3Apr+author%3Athe-dev-z+is%3Amerged)
+**Links:**
+- [40 Merged PRs](https://github.com/NoFxAiOS/nofx/pulls?q=is%3Apr+author%3Athe-dev-z+is%3Amerged)
+- [z-dev-v2 Branch](https://github.com/the-dev-z/nofx/commits/z-dev-v2/)
+- [z-dev Branch](https://github.com/the-dev-z/nofx/commits/z-dev/)
 
 ---
 
