@@ -9,7 +9,7 @@ Building adaptive AI trading systems that combine quantitative strategies with L
 ## ⚡ Highlights
 
 - 🏆 **Top Open Source Contributor** - 40 merged PRs to [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) (208 commits in 11 days, #1 contributor with 6.1x more than #2)
-- ⚡ **Performance Optimization Expert** - Achieved 70% startup speed improvement and 65% API efficiency gains ([commit 13722852](https://github.com/NoFxAiOS/nofx/commit/13722852), [commit 1b38c595](https://github.com/NoFxAiOS/nofx/commit/1b38c595))
+- ⚡ **Performance Optimization Expert** - Achieved 65% API efficiency gains, reducing calls from 3000/hour to 1050/hour ([commit 1b38c595](https://github.com/NoFxAiOS/nofx/commit/1b38c595))
 - 🧪 **Test-Driven Development** - Contributed 1,237 lines of test code covering 7 core modules (API, Config, Crypto, Decision, Market, Trader)
 - 🔐 **Security Implementations** - Built Hyperliquid Agent Wallet security model, sensitive data masking, and null token protection ([PR #717](https://github.com/NoFxAiOS/nofx/pull/717))
 - 🌐 **4.5 Years Web3 Experience** - From LikeCoin (2018) and Binance NFT Artist (2020-2021) to AI Trading Systems (2025)
@@ -33,7 +33,7 @@ AI-driven quantitative trading OS supporting multiple exchanges (Binance, Hyperl
 
 **Impact:**
 - 📊 **15,000+ lines changed** across 75 files with 208 commits
-- ⚡ **Performance**: 70% faster startup ([13722852](https://github.com/NoFxAiOS/nofx/commit/13722852)), 65% API reduction ([1b38c595](https://github.com/NoFxAiOS/nofx/commit/1b38c595))
+- ⚡ **Performance**: 65% API reduction from 3000/hour to 1050/hour ([1b38c595](https://github.com/NoFxAiOS/nofx/commit/1b38c595))
 - 🔐 **Security**: Hyperliquid Agent Wallet ([#717](https://github.com/NoFxAiOS/nofx/pull/717)), sensitive data masking ([#813](https://github.com/NoFxAiOS/nofx/pull/813))
 - ✨ **Features**: OI time-series support ([#876](https://github.com/NoFxAiOS/nofx/pull/876)), dynamic precision ([#715](https://github.com/NoFxAiOS/nofx/pull/715)), partial close & dynamic TP/SL ([#415](https://github.com/NoFxAiOS/nofx/pull/415))
 - 🐛 **Critical Fixes**: Stop-loss direction bug ([#877](https://github.com/NoFxAiOS/nofx/pull/877)), race conditions, leverage calculation errors
