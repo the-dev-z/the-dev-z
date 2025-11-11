@@ -8,7 +8,7 @@ Building adaptive AI trading systems that combine quantitative strategies with L
 
 ## ⚡ Highlights
 
-- 🏆 **Top Open Source Contributor** - 40 merged PRs to [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) (208 commits in 11 days, #1 contributor with 6.1x more than #2)
+- 🏆 **Top Open Source Contributor** - 40+ merged PRs to [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) (208 commits in 11 days, #1 contributor with 6.1x more than #2)
 - ⚡ **Performance Optimization Expert** - Merged: 90% Funding Rate API reduction ([PR #769](https://github.com/NoFxAiOS/nofx/pull/769)) | z-dev: 65% total API optimization + 83% OI collection speed
 - 🔄 **Active Fork Development** - Leading [z-dev-v2](https://github.com/the-dev-z/nofx/commits/z-dev-v2/) development, integrating z-dev optimizations and contributing to upstream
 - 🧪 **Test-Driven Development** - Contributed 1,237 lines of test code covering 7 core modules (API, Config, Crypto, Decision, Market, Trader)
@@ -34,7 +34,7 @@ Building adaptive AI trading systems that combine quantitative strategies with L
 AI-driven quantitative trading OS supporting multiple exchanges (Binance, Hyperliquid, Aster DEX), backed by Amber.ac.
 
 **Upstream Contributions (Merged):**
-- 📊 **15,000+ lines changed** across 75 files with 40 merged PRs
+- 📊 **15,000+ lines changed** across 75 files with 40+ merged PRs
 - ⚡ **Performance**: 90% Funding Rate API reduction ([#769](https://github.com/NoFxAiOS/nofx/pull/769))
 - 🔐 **Security**: Hyperliquid Agent Wallet ([#717](https://github.com/NoFxAiOS/nofx/pull/717)), sensitive data masking ([#813](https://github.com/NoFxAiOS/nofx/pull/813))
 - ✨ **Features**: OI time-series support ([#876](https://github.com/NoFxAiOS/nofx/pull/876)), dynamic precision ([#715](https://github.com/NoFxAiOS/nofx/pull/715)), partial close & dynamic TP/SL ([#415](https://github.com/NoFxAiOS/nofx/pull/415))
@@ -49,7 +49,7 @@ AI-driven quantitative trading OS supporting multiple exchanges (Binance, Hyperl
 **Tech Stack:** Go, Gin, SQLite, React 18, TypeScript, Vite, TailwindCSS, Zustand, SWR
 
 **Links:**
-- [40 Merged PRs](https://github.com/NoFxAiOS/nofx/pulls?q=is%3Apr+author%3Athe-dev-z+is%3Amerged)
+- [40+ Merged PRs](https://github.com/NoFxAiOS/nofx/pulls?q=is%3Apr+author%3Athe-dev-z+is%3Amerged)
 - [z-dev-v2 Branch](https://github.com/the-dev-z/nofx/commits/z-dev-v2/)
 - [z-dev Branch](https://github.com/the-dev-z/nofx/commits/z-dev/)
 
@@ -102,7 +102,7 @@ AI-driven quantitative trading OS supporting multiple exchanges (Binance, Hyperl
 
 **2025** - 🤖 **AI Trading Systems**
 - Core developer at NoFX (Agentic Trading OS)
-- 40 merged PRs, 208 commits in first month
+- 40+ merged PRs, 208 commits in first month
 - Focus: Quantitative trading, LLM integration, multi-exchange support
 
 **2022-2024** - 🎮 **DeFi & GameFi**
