@@ -6,11 +6,42 @@ Building adaptive AI trading systems that combine quantitative strategies with L
 
 ---
 
+## ⚡ Highlights
+
+- 🏆 **Top Open Source Contributor** - 40 merged PRs to [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) (208 commits in 11 days, #1 contributor with 6.1x more than #2)
+- ⚡ **Performance Optimization Expert** - Achieved 70% startup speed improvement and 65% API efficiency gains ([commit 13722852](https://github.com/NoFxAiOS/nofx/commit/13722852), [commit 1b38c595](https://github.com/NoFxAiOS/nofx/commit/1b38c595))
+- 🧪 **Test-Driven Development** - Contributed 1,237 lines of test code covering 7 core modules (API, Config, Crypto, Decision, Market, Trader)
+- 🔐 **Security Implementations** - Built Hyperliquid Agent Wallet security model, sensitive data masking, and null token protection ([PR #717](https://github.com/NoFxAiOS/nofx/pull/717))
+- 🌐 **4.5 Years Web3 Experience** - From LikeCoin (2018) and Binance NFT Artist (2020-2021) to AI Trading Systems (2025)
+
+---
+
 ## 🚀 What I'm Working On
 
 - 🤖 **NoFX AI Trading Bot** - Autonomous trading agent with dynamic TP/SL and partial close strategies
 - 📊 **Quantitative Trading** - Developing backtesting frameworks and risk management systems
 - 🧠 **LLM Integration** - Exploring AI-driven trading decision making (OpenAI, Anthropic, DeepSeek)
+
+---
+
+## 🔥 Open Source Contributions
+
+### **NoFX - Agentic Trading OS** | [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx)
+**Core Developer** | Nov 2025 - Present
+
+AI-driven quantitative trading OS supporting multiple exchanges (Binance, Hyperliquid, Aster DEX), backed by Amber.ac.
+
+**Impact:**
+- 📊 **15,000+ lines changed** across 75 files with 208 commits
+- ⚡ **Performance**: 70% faster startup ([13722852](https://github.com/NoFxAiOS/nofx/commit/13722852)), 65% API reduction ([1b38c595](https://github.com/NoFxAiOS/nofx/commit/1b38c595))
+- 🔐 **Security**: Hyperliquid Agent Wallet ([#717](https://github.com/NoFxAiOS/nofx/pull/717)), sensitive data masking ([#813](https://github.com/NoFxAiOS/nofx/pull/813))
+- ✨ **Features**: OI time-series support ([#876](https://github.com/NoFxAiOS/nofx/pull/876)), dynamic precision ([#715](https://github.com/NoFxAiOS/nofx/pull/715)), partial close & dynamic TP/SL ([#415](https://github.com/NoFxAiOS/nofx/pull/415))
+- 🐛 **Critical Fixes**: Stop-loss direction bug ([#877](https://github.com/NoFxAiOS/nofx/pull/877)), race conditions, leverage calculation errors
+- 🧪 **Testing**: 1,237 lines of test code covering API, Market, Trader, Decision modules
+
+**Tech Stack:** Go, Gin, SQLite, React 18, TypeScript, Vite, TailwindCSS, Zustand, SWR
+
+**View All PRs:** [40 Merged PRs](https://github.com/NoFxAiOS/nofx/pulls?q=is%3Apr+author%3Athe-dev-z+is%3Amerged)
 
 ---
 
@@ -45,17 +76,38 @@ Building adaptive AI trading systems that combine quantitative strategies with L
 
 ## 📈 Recent Contributions
 
-- 🔧 Implemented partial close and dynamic TP/SL features for crypto trading bots
-- 🐛 Fixed multiple critical bugs in trading execution logic
-- 📝 Enhanced trading prompts with LLM guidance frameworks
-- 🔍 Improved market data staleness detection and retry mechanisms
+- 🔧 **Major Feature**: Implemented partial close and dynamic TP/SL core functionality - [PR #415](https://github.com/NoFxAiOS/nofx/pull/415) (merged)
+- ⚡ **Performance**: Optimized API efficiency by 65%, reducing calls from 3000/hour to 1050/hour - [PR #769](https://github.com/NoFxAiOS/nofx/pull/769)
+- 🔐 **Security**: Enhanced Agent Wallet security model with dual-address verification - [PR #717](https://github.com/NoFxAiOS/nofx/pull/717)
+- 🐛 **Critical Bug Fixes**:
+  - Fixed stop-loss strategy direction errors affecting all prompt templates - [PR #667](https://github.com/NoFxAiOS/nofx/pull/667)
+  - Resolved NaN% display in competition gap calculation - [PR #670](https://github.com/NoFxAiOS/nofx/pull/670)
+  - Fixed Hyperliquid balance detection with 4 critical fixes - [PR #471](https://github.com/NoFxAiOS/nofx/pull/471)
+- 📝 Enhanced trading prompts with safety rules and LLM guidance - [PR #712](https://github.com/NoFxAiOS/nofx/pull/712)
+- 🔍 Improved market data staleness detection and retry mechanisms - [PR #385](https://github.com/NoFxAiOS/nofx/pull/385)
 
 ---
 
-## 🌱 Previously
+## 🌱 Web3 Journey
 
-- **MEME Coin Tools** - Built analytics and trading tools for meme coin markets
-- **GameFi Projects** - Developed smart contract integrations for blockchain games
+**2025** - 🤖 **AI Trading Systems**
+- Core developer at NoFX (Agentic Trading OS)
+- 40 merged PRs, 208 commits in first month
+- Focus: Quantitative trading, LLM integration, multi-exchange support
+
+**2022-2024** - 🎮 **DeFi & GameFi**
+- Built analytics and trading tools for meme coin markets
+- Developed smart contract integrations for blockchain games
+- Explored DeFi protocols and on-chain data analysis
+
+**2020-2021** - 🎨 **NFT Artist & Creator**
+- [Binance NFT Artist](https://www.binance.com/en/nft) certification
+- Active on [OurSong](https://www.oursong.com/@zhouyongyou), [Foundation](https://foundation.app/@zhouyongyou)
+- Collaborated with exchanges on NFT projects
+
+**2018** - 🌐 **Early Web3 Adopter**
+- Promoted [LikeCoin](https://like.co/z440481) decentralized publishing infrastructure
+- Participated in early blockchain community building in Asia
 
 ---
 
