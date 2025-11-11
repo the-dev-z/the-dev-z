@@ -13,7 +13,7 @@ Building adaptive AI trading systems that combine quantitative strategies with L
 - 🔄 **Active Fork Development** - Leading [z-dev-v2](https://github.com/the-dev-z/nofx/commits/z-dev-v2/) development, integrating z-dev optimizations and contributing to upstream
 - 🧪 **Test-Driven Development** - Contributed 1,237 lines of test code covering 7 core modules (API, Config, Crypto, Decision, Market, Trader)
 - 🔐 **Security Implementations** - Built Hyperliquid Agent Wallet security model, sensitive data masking, and null token protection ([PR #717](https://github.com/NoFxAiOS/nofx/pull/717))
-- 🌐 **4.5 Years Web3 Experience** - From LikeCoin (2018) and Binance NFT Artist (2020-2021) to AI Trading Systems (2025)
+- 🌐 **Web3 Since 2018** - Early adopter from LikeCoin and Binance NFT Artist to AI Trading Systems
 
 ---
 
